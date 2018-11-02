@@ -14,7 +14,7 @@
         <item name="actionItemSpacing">0dp</item>
         <item name="cancelButtonMarginTop">15dp</item>
         <item name="actionItemTextSize">18sp</item>
-        <item name="cancelItemTextSize">16sp</item>
+        <item name="cancelItemTextSize">18sp</item>
     </style>
 
 </resources>
