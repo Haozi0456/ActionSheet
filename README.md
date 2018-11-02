@@ -87,5 +87,3 @@ ActionSheet.createBuilder(context)
 邮箱:468164865@qq.com
 
 
-## 打赏支持
-
