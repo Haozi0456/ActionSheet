@@ -3,7 +3,7 @@
 
 #效果图
 <p>
-   <img src="https://github.com/Haozi0456/ActionSheet/blob/master/Screenshot_20181102-185157.jpg" width="320" alt="Screenshot"/>
+   <img src="https://github.com/Haozi0456/ActionSheet/blob/master/Screenshot_20181102-185157.jpg" width="320"  height="640" alt="Screenshot"/>
 
 # 使用
 
