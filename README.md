@@ -1,6 +1,9 @@
 # ActionSheet[![](https://jitpack.io/v/Haozi0456/ActionSheet.svg)](https://jitpack.io/#Haozi0456/ActionSheet)
 仿ios底部弹出选择器
 
+#效果图
+<p>
+   <img src="https://github.com/Haozi0456/ActionSheet/blob/master/Screenshot_20181102-185157.jpg" width="320" alt="Screenshot"/>
 
 # 使用
 
