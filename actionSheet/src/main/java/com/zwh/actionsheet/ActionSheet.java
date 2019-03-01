@@ -193,7 +193,7 @@ public class ActionSheet implements View.OnClickListener{
                 if (showTitle) {
                     textView.setBackgroundResource(R.drawable.as_item_bottom_selector);
                 } else {
-                    textView.setBackgroundResource(R.drawable.as_item_top_selector);
+                    textView.setBackgroundResource(R.drawable.as_item_round_selector);
                 }
             } else {
                 if (showTitle) {
