@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements ActionSheet.Actio
             @Override
             public void onClick(View v) {
                 ActionSheet.createBuilder(MainActivity.this)
-                        .setActionItemTitles(new String[]{"照相"})
+                        .setActionItemTitles(new String[]{"照相","从相册选择"})
                         .setCancelableOnTouchOutside(true)
                         .setCancelButtonTitle("取消")
                         .setListener(MainActivity.this)
